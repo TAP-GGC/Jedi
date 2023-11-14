@@ -7,4 +7,6 @@ The Technology Ambassador Program (TAP) at GGC strives to break the misconceptio
 [TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)
 ![Team photo CCSC](https://github.com/TechAmbassadors-GGC/Jedi/assets/150178791/d80e6ee6-08b0-4d0d-b84d-52a6ac133e49)
 (Left, Tony Lam, Middle, Ammar Mehicevic, Right, Etienne Laccruche.
+
 ## Project setup/Installation
+First create a SpheroEDU teacher account. Then create a new program within the app. Once the program has been created, the proggram must be allocated into the shared resources, so the students will have access to it.
