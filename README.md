@@ -1,5 +1,4 @@
-# Jedi
-##  Teaching Algorithms and Growing STEM with Sphero
+#  Teaching Algorithms and Growing STEM with Sphero
 Students will be given an introduction to Sphero.
 Students will then get to experiment with Sphero.edu and block coding.
 Students will learn about algorithms through relatable examples and apply their knowledge to block coding. 
