@@ -10,3 +10,21 @@ The Technology Ambassador Program (TAP) at GGC strives to break the misconceptio
 
 ## Project setup/Installation
 First create a SpheroEDU teacher account. Then create a new program within the app. Once the program has been created, the proggram must be allocated into the shared resources, so the students will have access to it.
+
+
+| Amount | Materials | Dimension |
+|    :----:   |    :----:   |    :----:   |
+| 6 | Foam Boards | 36 in. x 48 in. |
+| 2 | Plywood | 36 in. x 48 in. |
+| 1 | Hot Glue Gun | ----- |
+| 1 | 30 Count Pack of Hot Glue Sticks | ----- |
+| 1 | Exacto Knife | ----- |
+| 2 | Plywood | 36 in. x 48 in. |
+| 6 | Foam Boards | 36 in. x 48 in. |
+| 2 | Plywood | 36 in. x 48 in. |
+| 6 | Foam Boards | 36 in. x 48 in. |
+| 2 | Plywood | 36 in. x 48 in. |
+| 6 | Foam Boards | 36 in. x 48 in. |
+| 2 | Plywood | 36 in. x 48 in. |
+| 6 | Foam Boards | 36 in. x 48 in. |
+| 2 | Plywood | 36 in. x 48 in. |
