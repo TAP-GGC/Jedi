@@ -12,4 +12,4 @@ The Technology Ambassador Program (TAP) at GGC strives to break the misconceptio
 ## Sphero EDU Setup
 First create a SpheroEDU teacher account. Click on my content then click on "Create a Program". Create your easy code that completes the easy part of the maze and do the same for the hard code. Once the program has been created, the proggram must be allocated into the shared resources, so the students will have access to it. To do this you go to your classes tab. Got to shared resources and click add programs. Select both codes and submit. When the students create a student account, they will see both codes under the resource tab. 
 ## Construction
-In order to create the maze, a 
+In order to create the maze, a 36 in. x 46 in. 
