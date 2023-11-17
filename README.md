@@ -12,4 +12,15 @@ The Technology Ambassador Program (TAP) at GGC strives to break the misconceptio
 ## Sphero EDU Setup
 First create a SpheroEDU teacher account. Click on my content then click on "Create a Program". Create your easy code that completes the easy part of the maze and do the same for the hard code. Once the program has been created, the proggram must be allocated into the shared resources, so the students will have access to it. To do this you go to your classes tab. Got to shared resources and click add programs. Select both codes and submit. When the students create a student account, they will see both codes under the resource tab. 
 ## Construction
-In order to create the maze, a 36 in. x 46 in. 
+In order to create the maze, a 36 in. x 48 in. foldable foam board and a 36 in. x 48 in. plywood will be used as a base. First, hot glue the flaps of the foamboard to create a solid flat surface. ------
+Another  foam board will be used to create the walls of the maze. Once again, hot glue the two flaps of the foam board to create a flat surface. All of the walls of the foam board will have a height of 6 inches. Begin to draw the following dimensions on the foam board to create the walls:
+| Amount | Dimension |
+| ----------- | ----------- |
+| 7 | 6 in. x 6 in. |
+| 1 | 35.5 in. x 6 in. |
+| 2 | 14 in. x 6 in. |
+| 1 | 32.5 in. x 6 in. |
+| 2 | 40.5 in. x 6 in. |
+| 1 | 48 in. x 6 in. |
+| 1 | 28 in. x 6 in. |
+
