@@ -12,7 +12,8 @@ The Technology Ambassador Program (TAP) at GGC strives to break the misconceptio
 ## Sphero EDU Setup
 First create a SpheroEDU teacher account. Click on my content then click on "Create a Program". Create your easy code that completes the easy part of the maze and do the same for the hard code. Once the program has been created, the proggram must be allocated into the shared resources, so the students will have access to it. To do this you go to your classes tab. Got to shared resources and click add programs. Select both codes and submit. When the students create a student account, they will see both codes under the resource tab. 
 ## Construction
-In order to create the maze, a 36 in. x 48 in. foldable foam board and a 36 in. x 48 in. plywood will be used as a base. First, hot glue the flaps of the foamboard to create a solid flat surface. ------
+In order to create the maze, a 36 in. x 48 in. foldable foam board and a 36 in. x 48 in. plywood will be used as a base. First, hot glue the flaps of the foamboard to create a solid flat surface. To create the "L" shape of the maze, draw a a straight line starting at the shorter side of the foam board; the line should be 8 inches from the top of the foam board and should be 40 inches long. To complete the "L" shape, draw another line perpendicular along the width of the board. -----
+
 Another  foam board will be used to create the walls of the maze. Once again, hot glue the two flaps of the foam board to create a flat surface. All of the walls of the foam board will have a height of 6 inches. Begin to draw the following dimensions on the foam board to create the walls:
 | Amount | Dimension |
 | ----------- | ----------- |
@@ -24,3 +25,6 @@ Another  foam board will be used to create the walls of the maze. Once again, ho
 | 1 | 48 in. x 6 in. |
 | 1 | 28 in. x 6 in. |
 
+Use the photo beow to help with gluing the walls to the maze. 
+
+![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e)
