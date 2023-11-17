@@ -47,4 +47,6 @@ Another  foam board will be used to create the walls of the maze. Once again, ho
 
 Use the photo below to help with gluing the walls to the maze. 
 
-![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e)
+![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e) <br>
+
+![Photo of Sphero]( insert path here )
