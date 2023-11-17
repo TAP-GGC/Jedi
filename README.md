@@ -19,6 +19,11 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), November 3-4, 2023, Conway,
 STEM career
 3. Class Workshops – October 26th, November 13th, November 14th - promote IT field to non-IT college
 students
+## Technology
+Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
+
+[Sphero EDU website](https://edu.sphero.com/sphero/home)
+
 
 ## Project setup/Installation
 ### Sphero EDU Setup
