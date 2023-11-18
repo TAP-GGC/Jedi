@@ -1,7 +1,12 @@
 #  Teaching Algorithms and Growing STEM with Sphero
-The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. Sphero is a small robot ball that moves around by either remote control or code you feed it. This workshop is geared towards educating and creating interest in the IT field for non STEM majors. By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
-<br>The Technology Ambassador Program (TAP) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM. 
-[TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)
+The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. 
+Sphero is a small robot ball that moves around by either remote control or code you feed it. 
+This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
+By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
+The Technology Ambassador Program (TAP) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. 
+TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM. 
+[TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) <br>
+
 ![Team photo CCSC](Media/GroupPhoto.jpg)
 (Left: Tony Lam, Middle: Ammar Mehicevic, Right: Etienne Laccruche) <br>
 Advisors: Dr. Anca Doluc Mihu and Dr. Cindy Robertson
