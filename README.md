@@ -56,4 +56,5 @@ Use the photo below to help with gluing the walls to the maze.
 ### Quick Workshop Walkthrough
 Below is a link to a 5 minute video walkthrough of our workshop that anyone with a sphero can do.
 
-![Walkthrough](https://youtu.be/W7AJaQqIAE0)
+https://youtu.be/W7AJaQqIAE0
+
