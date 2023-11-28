@@ -14,7 +14,7 @@ Advisors: Dr. Anca Doluc Mihu and Dr. Cindy Robertson
 ## Publications
 1. Tony Lam, Ammar Mehicevic, Etienne Laccruche, Anca Doloc-Mihu, Cindy Robertson. Teaching Algorithms and Growing STEM with Sphero, Consortium for Computing
 Sciences in Colleges: Southeastern Region (CCSC:SE), November 3-4, 2023, Conway, SC.
-2. Tony Lam, Ammar Mehicevic, Etienne Laccruche, Anca Doloc-Mihu, Cindy Robertson. Teaching Algorithms and Growing STEM with Sphero, CREATE Symposium, -------, Georgia Gwinnett College.
+2. Tony Lam, Ammar Mehicevic, Etienne Laccruche, Anca Doloc-Mihu, Cindy Robertson. Teaching Algorithms and Growing STEM with Sphero, CREATE Symposium, November 30, Georgia Gwinnett College.
 
 ## Outreach Activities
 1. Tap Expo, Oct 10, GGC – To promote IT field and the TAP program to college students
