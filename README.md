@@ -50,7 +50,7 @@ Use the photo below to help with gluing the walls to the maze.
 
 ![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e) <br>
 
-![Photo of Sphero]( insert path here )
+![Photo of Sphero](https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg)
 
 ### Quick Workshop Walkthrough
 Below is a link to a 5 minute video walkthrough of our workshop that anyone with a sphero can do.
