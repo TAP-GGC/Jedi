@@ -25,7 +25,7 @@ students
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
 
 [Sphero EDU website](https://edu.sphero.com/sphero/home)
-
+![Photo of Sphero](https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg)
 
 ## Project setup/Installation
 ### Sphero EDU Setup
@@ -49,8 +49,6 @@ Another foam board will be used to create the walls of the maze. Once again, hot
 Use the photo below to help with gluing the walls to the maze. 
 
 ![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e) <br>
-
-![Photo of Sphero](https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg)
 
 ### Quick Workshop Walkthrough
 Below is a link to a 5 minute video walkthrough of our workshop that anyone with a sphero can do.
