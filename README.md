@@ -10,6 +10,12 @@ This workshop is geared towards educating and creating interest in the IT field 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM. 
 
+## Team
+* Ammar Mehicevic
+* Etienne Laccruche
+* Tony Lam
+* Dr. Cindy Robertson
+* Dr. Anca Doloc-Mihu
 <img src= "Media/GroupPhoto.jpg" width="400" height="200">
 (Left: Tony Lam, Middle: Ammar Mehicevic, Right: Etienne Laccruche) <br>
 Advisors: Dr. Anca Doluc Mihu and Dr. Cindy Robertson
