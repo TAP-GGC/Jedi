@@ -4,7 +4,7 @@
 * Target Audience: 6th Grade - College
 * Duration of workshop: 60-90 minutes
 * Needed Material: A classroom set of Spheros, Sphero EDU app/website, a 36 in. x 48 in. foldable foam board, and a 36 in. x 48 in. plywood
-The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. 
+* The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. 
 Sphero is a small robot ball that moves around by either remote control or code you feed it. 
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
