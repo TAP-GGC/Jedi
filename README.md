@@ -1,4 +1,9 @@
 #  Teaching Algorithms and Growing STEM with Sphero
+## Description
+* Difficulty Level: Medium
+* Target Audience: 6th Grade - College
+* Duration of workshop: 60-90 minutes
+* Needed Material: 
 The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. 
 Sphero is a small robot ball that moves around by either remote control or code you feed it. 
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
