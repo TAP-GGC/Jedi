@@ -11,7 +11,7 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. 
 TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM. 
 
-![Team photo CCSC](Media/GroupPhoto.jpg)
+![Team photo CCSC](<img src="Media/GroupPhoto.jpg" width="150" height="150">)
 (Left: Tony Lam, Middle: Ammar Mehicevic, Right: Etienne Laccruche) <br>
 Advisors: Dr. Anca Doluc Mihu and Dr. Cindy Robertson
 
@@ -30,7 +30,7 @@ students
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
 
 [Sphero EDU website](https://edu.sphero.com/sphero/home)
-![Photo of Sphero](https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg) width="150" height="150"
+![Photo of Sphero](https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg)
 
 ## Project setup/Installation
 ### Sphero EDU Setup
