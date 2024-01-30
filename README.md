@@ -11,7 +11,7 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. 
 TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM. 
 
-<![Team photo CCSC](Media/GroupPhoto.jpg)width="200" height="200">
+<![Team photo CCSC](Media/GroupPhoto.jpg)width="100" height="100">
 (Left: Tony Lam, Middle: Ammar Mehicevic, Right: Etienne Laccruche) <br>
 Advisors: Dr. Anca Doluc Mihu and Dr. Cindy Robertson
 
