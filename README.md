@@ -16,7 +16,8 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 * Tony Lam
 ### Advisors
 * Dr. Cindy Robertson
-* Dr. Anca Doloc-Mihu <br>
+* Dr. Anca Doloc-Mihu <br> <br>
+  ### Team Photo
 <img src= "Media/GroupPhoto.jpg" width="400" height="200"> <br>
 (Left: Tony Lam, Middle: Ammar Mehicevic, Right: Etienne Laccruche) <br>
 
