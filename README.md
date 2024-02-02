@@ -70,4 +70,5 @@ Below is a link to a 5 minute video walkthrough of our workshop that anyone with
 
 https://youtu.be/W7AJaQqIAE0
 ## Workshop Instructions
+![Algorithm Worksheet](Documents/AlgorithmWorksheet.pdf)
 
