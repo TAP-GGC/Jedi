@@ -8,8 +8,7 @@
 * Sphero is a small robot ball that moves around by either remote control or code you feed it. 
 This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
-* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM. <br> <br>
-  <mp4 src= "Media/FinalSpheroVideo.mp4" width="400" height="400"> <br> 
+* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
 ## Team
 * Ammar Mehicevic
@@ -63,6 +62,7 @@ Another foam board will be used to create the walls of the maze. Once again, hot
 Use the photo below to help with gluing the walls to the maze. 
 
 ![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e) <br>
+[![Alternate Text]({image-url})]({video-url} "Link Title")
 
 ![Construction PDF File](Media/Construction.pdf)
 
