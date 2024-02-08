@@ -48,11 +48,11 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 4.	Create your easy code that completes the easy part of the maze.
 5.	Create your hard code that completes the hard part of the maze.
 6.	Allocate the program into the shared resources so students will have access to it.
-●	Go to your classes tab.
-●	Go to shared resources. 
-●	Click add programs. 
-●	Select both codes. 
-●	Click submit.
+* Go to your classes tab.
+* Go to shared resources. 
+* Click add programs. 
+*	Select both codes. 
+*	Click submit.
 
 ### Construction
 In order to create the maze, a 36 in. x 48 in. foldable foam board and a 36 in. x 48 in. plywood will be used as a base. First, hot glue the flaps of the foamboard to create a solid flat surface. To create the "L" shape of the maze, draw a a straight line starting at the shorter side of the foam board; the line should be 8 inches from the top of the foam board and should be 40 inches long. To complete the "L" shape, draw another line perpendicular along the width of the board. In order to create the 2 other pieces of the maze, draw a straight line 14 inches below the longer portion of the "L" shape. Use an exacto knife to cut the foam board. Replace the blade periodically to keep the cuts smooth. 
