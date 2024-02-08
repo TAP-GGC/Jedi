@@ -70,5 +70,5 @@ Use the photo below to help with gluing the walls to the maze.
 Below is a link to a 5 minute video walkthrough of our workshop that anyone with a sphero can do. <br>
 https://youtu.be/W7AJaQqIAE0
 ## Workshop Instructions
-![Algorithm Worksheet](Media/AlgorithmWorksheet.pdf)
+![Algorithm Worksheet](Media/Algorithm%20Worksheet.pdf)
 
