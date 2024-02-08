@@ -55,25 +55,7 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 *	Click submit.
 
 ### Construction
-In order to create the maze, a 36 in. x 48 in. foldable foam board and a 36 in. x 48 in. plywood will be used as a base. First, hot glue the flaps of the foamboard to create a solid flat surface. To create the "L" shape of the maze, draw a a straight line starting at the shorter side of the foam board; the line should be 8 inches from the top of the foam board and should be 40 inches long. To complete the "L" shape, draw another line perpendicular along the width of the board. In order to create the 2 other pieces of the maze, draw a straight line 14 inches below the longer portion of the "L" shape. Use an exacto knife to cut the foam board. Replace the blade periodically to keep the cuts smooth. 
-
-The plywood will be attached to the base of the maze to keep the base level. Draw the same lines as before onto the plywood. The jigsaw connections will have a length of 2 inches and a width of 1 inch; they will also be 6 inches apart. Use the chisel and rubber mallet to cut the pieces out of the plywood.
-
-Another foam board will be used to create the walls of the maze. Once again, hot glue the two flaps of the foam board to create a flat surface. All of the walls of the foam board will have a height of 6 inches. Begin to draw the following dimensions on the foam board to create the walls:
-| Amount | Dimension |
-| ----------- | ----------- |
-| 7 | 6 in. x 6 in. |
-| 1 | 35.5 in. x 6 in. |
-| 2 | 14 in. x 6 in. |
-| 1 | 32.5 in. x 6 in. |
-| 2 | 40.5 in. x 6 in. |
-| 1 | 48 in. x 6 in. |
-| 1 | 28 in. x 6 in. |
-
-Use the photo below to help with gluing the walls to the maze. 
-
-![Completed Maze with Dimensions](https://github.com/TechAmbassadors-GGC/Jedi/assets/150370480/023c80d5-1711-4d41-8f51-d388f45df25e)<br>
-
+For instructions on how to build the maze please use the pdf file linked below. <br>
 
 ![Construction PDF File](Documents/Construction.pdf)
 
