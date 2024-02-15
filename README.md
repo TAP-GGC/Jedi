@@ -37,7 +37,7 @@ students
 ## Technology
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
 | <img src="Media/SpheroClassSet.jpg" width="200" height="200"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> | <img src="Media/SpheroEdu.jpg" width="200" height="200"> <br>|
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | 
+| :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
 | [Classroom set of Spheros](https://sphero.com/collections/all/products/sphero-bolt-power-pack) | [Sphero Robot](https://sphero.com/collections/all/products/sphero-bolt) | [Sphero EDU website](https://edu.sphero.com/sphero/home) |                                                                                 
 
 ## Project setup/Installation
