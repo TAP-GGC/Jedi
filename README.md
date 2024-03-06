@@ -41,18 +41,17 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 | [Classroom set of Spheros](https://sphero.com/collections/all/products/sphero-bolt-power-pack) | [Sphero Robot](https://sphero.com/collections/all/products/sphero-bolt) | [Sphero EDU website](https://edu.sphero.com/sphero/home) |                                                                                 
 
 ## Project setup/Installation
-### Sphero EDU Setup
-1.	Create a SpheroEDU teacher account.
-2.	Click on my content
-3.	Click on “Create a Program”.
-4.	Create your easy code that completes the easy part of the maze.
-5.	Create your hard code that completes the hard part of the maze.
-6.	Allocate the program into the shared resources so students will have access to it.
-* Go to your classes tab.
-* Go to shared resources. 
-* Click add programs. 
-*	Select both codes. 
-*	Click submit.
+### Installing Sphero EDU
+Installing Sphero Edu
+1.	Open the Microsoft Store (or preferred app store)
+2.	Click the Search bar.
+3.	Type “Sphero Edu” in the search bar and press enter (without the “ “)
+4.	Click on the app that says Sphero Edu.
+5.	Click the “Get” or “Download” button that appears.
+6.	Wait for the app to download completely and the app should open automatically.
+•	If the app does not open automatically check to see if a short-cut was created on your desktop and double click it or search for “Sphero Edu” in the taskbar (search bar) of your computer.
+•	If it still does not appear then the app might not have completely installed. You can check this by opening your downloads folder on your computer. 
+7.	Once the app is opened a Welcome Message should appear. It will ask you to agree to the Terms of Use and Privacy Policy and Edu Privacy Policy. You must check both of these boxes in order to use the app.
 
 ### Construction
 For instructions on how to build the maze please use the pdf file linked below. <br>
