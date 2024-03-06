@@ -51,7 +51,7 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 •	If the app does not open automatically check to see if a short-cut was created on your desktop and double click it or search for “Sphero Edu” in the taskbar (search bar) of your computer.
 •	If it still does not appear then the app might not have completely installed. You can check this by opening your downloads folder on your computer. 
 7.	Once the app is opened a Welcome Message should appear. It will ask you to agree to the Terms of Use and Privacy Policy and Edu Privacy Policy. You must check both of these boxes in order to use the app.<br>
-![Installing Sphero Edu](Media/Installing%20Sphero%20Edu.docx)
+![Installing Sphero Edu](Media/Installing%20Sphero%20Edu.pdf)
 
 ### Construction
 For instructions on how to build the maze please use the pdf file linked below. <br>
