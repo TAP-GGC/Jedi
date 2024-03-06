@@ -42,7 +42,6 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 
 ## Project setup/Installation
 ### Installing Sphero EDU
-Installing Sphero Edu
 1.	Open the Microsoft Store (or preferred app store)
 2.	Click the Search bar.
 3.	Type “Sphero Edu” in the search bar and press enter (without the “ “)
