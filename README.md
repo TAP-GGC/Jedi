@@ -67,6 +67,25 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 8.	Check the email you used to sign up for the account for an account confirmation email and then Click “Complete Sign Up”.
    ![Creating a Teacher Sphero Account](Media/Creating%20a%20Teacher%20Sphero%20Account.pdf)
 
+### Creating a Classroom and Adding Students in Sphero Edu
+1.	Open a web browser and type in the following URL. <br>
+•	edu.sphero.com/sphero/home
+2.	Once the website opens click “Sign In” in the top right corner.
+3.	Enter your Username and Password that is associated to your teacher account and click “Sign In”.
+4.	Click on “Teachers” 
+5.	Select “Classes” in the top right corner in between “My Content” and your Username.
+6.	Click “+ Create New Classes” on the task bar on the left side of the screen. 
+7.	Click on “Class Code” <br>
+•	The rest of the steps will explain how to create a class using the class code option. If you decide to use a different way to create your class, then the next steps may not be helpful to you.  
+8.	Enter your Class Name in the text box. Ex. “TAP”, “Workshop”, etc.... and click next
+9.	This screen presents you with your personal class code that you will be giving to your students so they can access the class. This will be accessible to you at any point. 
+10.	 Click “Add Student” to continue.
+11.	 Enter the students First Name in the text box that’s titled “First Name” and the students Last Initial in the text box that’s titled “Last Initial”.
+12.	 Click “Add Student” to continue adding students into your classroom.
+13.	 Click “Submit” when you have added all the students.
+14.	 You now can see all the students you have added to your classroom. At this point you can add more students or remove students as needed as well as share your programs with your students. 
+
+
 ### Construction
 For instructions on how to build the maze please use the pdf file linked below. <br>
 
