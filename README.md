@@ -53,6 +53,10 @@ For instructions on how to create a teacher sphero account please use the pdf fi
 For instructions on how to create a classroom and add students please use the pdf file linked below. <br>
 ![Creating a Classroom and Adding Students in Sphero Edu](Media/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
 
+### Creating a Program in Sphero Edu
+For instructions on how to create a program please use the pdf file linked below. <br>
+
+
 
 ### Construction
 For instructions on how to build the maze please use the pdf file linked below. <br>
