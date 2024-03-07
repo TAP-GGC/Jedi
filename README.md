@@ -83,7 +83,8 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 11.	 Enter the students First Name in the text box that’s titled “First Name” and the students Last Initial in the text box that’s titled “Last Initial”.
 12.	 Click “Add Student” to continue adding students into your classroom.
 13.	 Click “Submit” when you have added all the students.
-14.	 You now can see all the students you have added to your classroom. At this point you can add more students or remove students as needed as well as share your programs with your students. 
+14.	 You now can see all the students you have added to your classroom. At this point you can add more students or remove students as needed as well as share your programs with your students. <br>
+![Creating a Classroom and Adding Students in Sphero Edu](Media/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
 
 
 ### Construction
