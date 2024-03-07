@@ -55,7 +55,7 @@ For instructions on how to create a classroom and add students please use the pd
 
 ### Creating a Program in Sphero Edu
 For instructions on how to create a program please use the pdf file linked below. <br>
-
+![Creating a Program in Sphero Edu](Media/CreatingAProgramInSpheroEdu.pdf)
 
 
 ### Construction
