@@ -1,5 +1,4 @@
 #  Teaching Algorithms and Growing STEM with Sphero
-***
 ## Description
 * Difficulty Level: Medium
 * Target Audience: 6th Grade - College
