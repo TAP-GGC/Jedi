@@ -59,6 +59,8 @@ Video [<img src= "Media/CreatingTeacherSpheroAccount.PNG" width="400" height="20
 For instructions on how to create a classroom and add students please use the pdf file linked below. <br>
 ![Creating a Classroom and Adding Students in Sphero Edu](Media/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
 
+Video  [<img src= "Media/CreatingClassroomSpheroAccount.PNG" width="400" height="200">](https://youtu.be/3PSOkOrgY9g)
+
 ### Creating a Program in Sphero Edu
 For instructions on how to create a program please use the pdf file linked below. <br>
 ![Creating a Program in Sphero Edu](Media/CreatingAProgramInSpheroEdu.pdf)
