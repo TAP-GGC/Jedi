@@ -53,6 +53,8 @@ For instructions on how to install Sphero EDU please use the pdf file linked bel
 For instructions on how to create a teacher sphero account please use the pdf file linked below. <br>
 ![Creating a Teacher Sphero Account](Media/Creating%20a%20Teacher%20Sphero%20Account.pdf)
 
+Video [<img src= "Media/CreatingTeacherSpheroAccount.PNG" width="400" height="200">](https://youtu.be/ej4uR7sUrAw)
+
 ### Creating a Classroom and Adding Students in Sphero Edu
 For instructions on how to create a classroom and add students please use the pdf file linked below. <br>
 ![Creating a Classroom and Adding Students in Sphero Edu](Media/CreatingaClassroomandAddingStudentsinSpheroEdu.pdf)
