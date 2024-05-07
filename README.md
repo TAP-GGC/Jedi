@@ -73,7 +73,7 @@ For instructions on how to build the maze please use the pdf file linked below. 
 
 ## Short demo instructions
 Below is a link to a 5 minute video walkthrough of our workshop that anyone with a sphero can do. <br>
-[<img src= "Media/CreatingProgramSpheroAccount.PNG" width="400" height="200">](https://youtu.be/SYQ1Sk9o07E)
+[<img src= "Media/JEDIworkshopShort.PNG" width="400" height="200">](https://youtu.be/fTHYSRMObBw)
 
 
 ## Workshop Instructions
