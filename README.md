@@ -47,6 +47,8 @@ Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Spher
 For instructions on how to install Sphero EDU please use the pdf file linked below. <br>
 ![Installing Sphero Edu](Media/Installing%20Sphero%20Edu.pdf)
 
+[<img src= "Media/InstallingSphero.PNG" width="400" height="200">](https://youtu.be/LAu1CeJtu_Q)
+
 ### Creating a Teacher Sphero Account 
 For instructions on how to create a teacher sphero account please use the pdf file linked below. <br>
 ![Creating a Teacher Sphero Account](Media/Creating%20a%20Teacher%20Sphero%20Account.pdf)
