@@ -65,6 +65,7 @@ Video  [<img src= "Media/CreatingClassroomSpheroAccount.PNG" width="400" height=
 For instructions on how to create a program please use the pdf file linked below. <br>
 ![Creating a Program in Sphero Edu](Media/CreatingAProgramInSpheroEdu.pdf)
 
+Video [<img src= "Media/CreatingProgramSpheroAccount.PNG" width="400" height="200">](https://youtu.be/SYQ1Sk9o07E)
 
 ### Construction
 For instructions on how to build the maze please use the pdf file linked below. <br>
