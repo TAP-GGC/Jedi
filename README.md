@@ -30,10 +30,10 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), November 3-4, 2023, Conway,
 2. Tony Lam, Ammar Mehicevic, Etienne Laccruche, Anca Doloc-Mihu, Cindy Robertson. Teaching Algorithms and Growing STEM with Sphero, CREATE Symposium, November 30, 2023, Georgia Gwinnett College.
 
 ## Outreach Activities
-1. Tap Expo, Oct 10, GGC – To promote IT field and the TAP program to college students
-2. Super Saturday Series (S3), Nov 9, GGC – middle and high school girls to promote IT and
+1. Tap Expo, Oct 10, 2023, GGC – To promote IT field and the TAP program to college students
+2. Super Saturday Series (S3), Nov 9, 2023, GGC – middle and high school girls to promote IT and
 STEM career
-3. Class Workshops – October 26th, November 13th, November 14th - promote IT field to non-IT college
+3. Class Workshops – October 26th, November 13th, November 14th, 2023, GGC - promote IT field to non-IT college
 students
 ## Similar Projects
 ## Technology
