@@ -10,7 +10,7 @@ This workshop is geared towards educating and creating interest in the IT field 
 By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 ### Commercial Video
-Click the image below to watch a 30 second commercial for the project <br>
+Click the image below to watch a 30 second commercial for the project <br> <br>
 [<img src= "Media/JEDIadTeam.PNG" width="400" height="200">](https://youtu.be/8odVRHWLpv4)
 
 ## Team
