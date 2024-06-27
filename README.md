@@ -36,6 +36,14 @@ STEM career
 3. Class Workshops – October 26th, November 13th, November 14th, 2023, GGC - promote IT field to non-IT college
 students
 ## Similar Projects
+### Sphero Projects
+* [Ball Is Life](https://github.com/TAP-GGC/ball-is-life)
+* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero)
+
+### Cozmo Projects
+* [Wanda](https://github.com/TAP-GGC/wanda)
+* [TechGoldFish](https://github.com/TAP-GGC/TechGoldFish)
+
 ## Technology
 Sphero is a robotic ball that can be programmed in the Sphero EDU app. The Sphero EDU app uses block coding similar to Scratch. 
 | <img src="Media/SpheroClassSet.jpg" width="200" height="200"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> | <img src="Media/SpheroEdu.jpg" width="200" height="200"> <br>|
