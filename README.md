@@ -32,7 +32,7 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), November 3-4, 2023, Conway,
 
 ## Outreach Activities
 1. Tap Expo, Oct 10, 2023, GGC – To promote IT field and the TAP program to college students
-2. Super Saturday Series (S3), Nov 9, 2023, GGC – middle and high school girls to promote IT and
+2. Super Saturday Series (S3), Nov 9, 2023, GGC – middle school students to promote IT and
 STEM career
 3. Class Workshops – October 26th, November 13th, November 14th, 2023, GGC - promote IT field to non-IT college
 students
